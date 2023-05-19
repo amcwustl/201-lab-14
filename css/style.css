@@ -1,2 +1,29 @@
 /* TODO: Make it awesome */
-Test code
+header {
+  background-color: gray;
+  padding: 25px;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 24px;
+}
+ 
+footer {
+  background-color: gray;
+  padding: 25px;
+  text-align: center;
+  color: white; 
+}
+
+main {
+  padding: 25px;
+}
+
+img {
+  width: 33%;
+  height: 33%;
+  border-radius: 8px;
+
+}
